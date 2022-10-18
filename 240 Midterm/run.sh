@@ -1,8 +1,8 @@
 # Name: Kyle Chan
 # Email: kchan21@csu.fullerton.edu
 # Date: October 12, 2022
-# Section ID: Section 3
 # Program: Euclidean Length
+# Run the program with "sh run.sh"
 
 #Purpose: script file to run the program files together.
 #Clear any previously compiled outputs
