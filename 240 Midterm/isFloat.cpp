@@ -23,7 +23,7 @@
 //  Programming languages: Assembly, C++, bash
 //  Date program began: 2022 October 12
 //  Date of last update: 2022 October 12
-//  Date of reorganization of comments: 2022 October 17
+//  Date of reorganization of comments: 2022 October 18
 //  Files in this program: driver.cpp, manager.asm, displayArray.cpp, sumArray.asm, fillArray.asm, run.sh
 //  Status: Finished.  The program was tested extensively with no errors in WSL 2022 Edition.
 //
