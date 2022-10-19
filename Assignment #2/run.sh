@@ -1,6 +1,6 @@
 #Program: Right Triangle
 #Author: Kyle Chan
-#Execute command: sh run.sh
+#Execute command: "sh run.sh"
 
 #Purpose: script file to run the program files together.
 #Clear any previously compiled outputs
