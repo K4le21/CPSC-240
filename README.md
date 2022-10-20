@@ -1,7 +1,6 @@
 # CPSC - 240 x86 Assembly
 
 CPSC - 240 @CSUF with Professor Holliday
-Assembly with C library functions
 
 # How to run each program?
 
