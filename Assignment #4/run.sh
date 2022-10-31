@@ -1,5 +1,5 @@
 #!/bin/bash
-#Program name: Pure Assembly Example
+#Program name: Pure Assembly Practice
 #Author: Kyle Chan
 #Title: BASH compile for ASM
 #Execute command: "sh run.sh"
