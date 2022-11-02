@@ -290,7 +290,7 @@ syscall
 
 ;Call cosine with xmm9
 mov rax, 1
-movsd xmm0, xmm9
+movsd xmm0, xmm8
 call cosine
 movsd xmm12, xmm0
 
