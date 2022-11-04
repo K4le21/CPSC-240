@@ -25,6 +25,7 @@
 ;
 ;float cosine (float x)
 ;Performs the cosine function
+;MAKE SURE THE NUMBER YOU PASS IN IS IN RADIANS NOT DEGREES
 ;===== Begin executable code section ====================================================================================
 
 global cosine
